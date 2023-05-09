@@ -7,11 +7,9 @@ seaborn
 matplotlib
 koreanize-matplotlib
 beautifulsoup4
-pillow
-PIL
 requests
 pydeck
-pydeck.types import String
+pydeck.types 
 folium
 streamlit_folium
 datetime
