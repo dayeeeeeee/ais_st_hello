@@ -8,6 +8,7 @@ matplotlib
 koreanize-matplotlib
 beautifulsoup4
 pillow
+PIL
 requests
 pydeck
 pydeck.types import String
