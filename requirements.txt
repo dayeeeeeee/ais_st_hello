@@ -7,3 +7,11 @@ seaborn
 matplotlib
 koreanize-matplotlib
 beautifulsoup4
+pillow
+requests
+pydeck
+pydeck.types import String
+folium
+streamlit_folium
+datetime
+haversine
